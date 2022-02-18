@@ -1,2 +1,2 @@
-# technical_interactions
+# Technical_interactions
 Data and R scripts of the paper "FROM KNOWLEDGE FLOW TO TECHNICAL SIGNALS: PATENT CITATIONS AS SIGNALS OF TECHNICAL INTERACTIONS " 
