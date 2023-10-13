@@ -9,7 +9,7 @@ library(cleaner)
 library(readxl)
 
 
-#######Set the working directory of components' similarity indexes#####
+#######Set the working directory of components' similarity indexes#####:
 
 setwd("~/Data/Alternative")
 #### Rowles components ####
