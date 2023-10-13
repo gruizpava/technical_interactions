@@ -1,6 +1,6 @@
 library(MASS)
 library(sna)
-##### Rowles models with QAP interdependence.#####
+##### Rowles models with QAP interdependence.#####:
 
 #Prediction of DSM
 
