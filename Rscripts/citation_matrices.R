@@ -9,7 +9,7 @@ library(BBmisc)
 
 
 ####Importing data####
-##Set the working directory of the data for Rowles' components
+##Set the working directory of the data for Rowles' components:
 setwd("~/Components/Rowles")
 
 comp1a <- read_excel("comp1a.XLS")
